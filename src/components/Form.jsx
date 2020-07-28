@@ -48,8 +48,6 @@ const Form = ({addAppointment}) => {
         })
     }
 
-
-
     return ( 
         <Fragment>
             <h1>Crear cita</h1>
